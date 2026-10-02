@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FileVault.Api/FileVault.Api.csproj" />
+    <Project Path="src/FileVault.Application/FileVault.Application.csproj" />
+    <Project Path="src/FileVault.Domain/FileVault.Domain.csproj" />
+    <Project Path="src/FileVault.Infrastructure/FileVault.Infrastructure.csproj" />
+  </Folder>
+</Solution>
